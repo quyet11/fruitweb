@@ -1,0 +1,146 @@
+/* header */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+nav {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    position: fixed;
+    right: 0;
+    background: #fff;
+    box-shadow: 0 0 8px rgba(0, 0, 0, 0.5);
+    z-index: 1000;
+}
+
+nav .logo img {
+    width: 60px;
+    cursor: pointer;
+    margin-top: 8px;
+}
+
+nav ul {
+    list-style: none;
+}
+
+nav ul li {
+    display: inline-block;
+    padding: 0 15px;
+}
+
+nav ul li a {
+    color: #000;
+    text-decoration: none;
+    transition: 0.3s;
+}
+
+nav ul li a:hover {
+    color: #ffcc33;
+}
+
+nav .search i {
+    font-size: 19px;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+nav .search i:hover {
+    color: #ffcc33;
+}
+
+
+/* contact */
+
+.body-lienhe {
+    width: 90%;
+    padding-top: 70px;
+    padding-left: 20px;
+}
+
+.lienhe-header {
+    height: 40px;
+    font-weight: bold;
+    line-height: 40px;
+    padding-left: 10px;
+    background: pink;
+}
+
+.lienhe-info {
+    margin: 20px auto 0;
+    display: inline-block;
+    width: 100%;
+}
+
+.info-left {
+    float: left;
+    width: 48%;
+}
+
+.info-right {
+    float: right;
+    width: 48%;
+}
+
+iframe {
+    border: 1px solid gray;
+}
+
+.guithongtin {
+    width: 45%;
+    float: left;
+}
+
+.thongtinnhom {
+    width: 50%;
+    float: right;
+}
+
+table {
+    margin-top: 10px;
+    height: 20px;
+}
+
+table input {
+    padding: 5px;
+}
+
+table button {
+    padding: 5px;
+    cursor: pointer;
+    background: #FFF;
+    border: 1px solid #0C9;
+}
+
+table button:hover {
+    background: #0C9;
+}
+
+.thongtinnhom table {
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+.thongtinnhom table td,
+th {
+    border: 1px solid #0C9;
+    height: 30px;
+    padding: 3px;
+    text-align: center;
+}
+
+
+/* những tr chẵn sẽ có màu khác */
+
+.thongtinnhom tr:nth-of-type(even) {
+    background-color: #f2f2f2;
+}

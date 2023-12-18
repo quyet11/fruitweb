@@ -1,0 +1,57 @@
+[{
+        "id": 1,
+        "name": "Apples",
+        "price": 2,
+        "image": "image/produ_1.png"
+
+    },
+    {
+        "id": 2,
+        "name": "Bananas",
+        "price": 1,
+        "image": "image/produ_2.png"
+
+    },
+    {
+        "id": 3,
+        "name": "Pineapple",
+        "price": 3,
+        "image": "image/produ_3.png"
+
+    },
+    {
+        "id": 4,
+        "name": "Oranges",
+        "price": 2,
+        "image": "image/produ_4.png"
+
+    },
+    {
+        "id": 5,
+        "name": "Grapes",
+        "price": 7,
+        "image": "image/5.png"
+
+    },
+    {
+        "id": 6,
+        "name": "Cherries",
+        "price": 4,
+        "image": "image/6.png"
+
+    },
+    {
+        "id": 7,
+        "name": "Kiwis",
+        "price": 3,
+        "image": "image/7.png"
+
+    },
+    {
+        "id": 8,
+        "name": "Watermelon",
+        "price": 6,
+        "image": "image/8.webp"
+
+    }
+]

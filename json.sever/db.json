@@ -1,0 +1,67 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "name": "quyet",
+      "phone": "222",
+      "username": "1",
+      "password": "1"
+    },
+    {
+      "namee": "11",
+      "phone": "22",
+      "username": "33",
+      "password": "44",
+      "id": 2
+    },
+    {
+      "namee": "11",
+      "phone": "22",
+      "username": "q",
+      "password": "w",
+      "id": 3
+    },
+    {
+      "namee": "quyet",
+      "phone": "12345",
+      "username": "quyet",
+      "password": "quyet",
+      "id": 4
+    },
+    {
+      "namee": "quyet",
+      "phone": "quyet",
+      "username": "quyet",
+      "password": "quyet",
+      "id": 5
+    },
+    {
+      "namee": "quyet",
+      "phone": "quyet",
+      "username": "quyet",
+      "password": "quyet",
+      "id": 6
+    },
+    {
+      "namee": "admin",
+      "phone": "admin",
+      "username": "admin",
+      "password": "admin",
+      "id": 7
+    },
+    {
+      "namee": "quyet",
+      "phone": "123456789",
+      "username": "quyet@gmail.com",
+      "password": "12345678",
+      "id": 8
+    },
+    {
+      "namee": "quyet",
+      "phone": "12345678",
+      "username": "quyet@gmail.com",
+      "password": "123456",
+      "id": 9
+    }
+  ]
+}
